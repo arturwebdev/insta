@@ -1,0 +1,7 @@
+.MessengerChat{
+	min-width: 100%;
+	max-height: 70vh;
+	border-bottom: 1px solid #dfdfdf;
+	overflow: hidden;
+	overflow-y: auto;
+}

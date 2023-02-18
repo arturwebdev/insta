@@ -1,0 +1,19 @@
+.ErrorPage {
+  text-align: center;
+  
+  h2 {
+    font-size: 25px;
+    font-weight: 550;
+    margin: 100px 0 40px;
+  }
+
+  p {
+    font-size: 16px;
+    letter-spacing: 0.5px;
+
+    span {
+      cursor: pointer;
+      color: rgb(13, 17, 115);
+    }
+  }
+}
